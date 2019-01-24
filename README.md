@@ -1,0 +1,1 @@
+Simple grabber for gokifu sgf files
